@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <BuildType Name="Project" />
+    <BuildType Name="Release" />
+  </Configurations>
+  <Project Path="LocalAiApi/LocalAiApi.csproj" />
+  <Project Path="NetApp/NetApp.csproj" />
+</Solution>
